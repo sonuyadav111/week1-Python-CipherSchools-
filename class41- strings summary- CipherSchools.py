@@ -1,6 +1,6 @@
 #strings
 
-name= "harsh"
+name= "sonu"
 # string indexing
 print(name[1])
 #string slicing
